@@ -16,3 +16,4 @@
 {"ts":1373500900151,"patch":[[{"diffs":[[0,"s: '"],[-1,"+data"],[0,");\n "]],"start1":229,"start2":229,"length1":13,"length2":8}]],"length":357,"saved":false}
 {"ts":1373501102077,"patch":[[{"diffs":[[0,"or is: '"],[1,"+data"],[0,");\n    }"]],"start1":225,"start2":225,"length1":16,"length2":21}]],"length":362,"saved":false}
 {"ts":1373501322017,"patch":[[{"diffs":[[0,"hone"],[-1,"1"],[0,"s.js"]],"start1":97,"start2":97,"length1":9,"length2":8}]],"length":361,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1373578318826,"patch":[[{"diffs":[[0,"$http'];"],[1,"\n\nfunction PhoneDetailCtrl($scope, $routeParams) {\n    $scope.phoneId = $routeParams.phoneId;\n}\n\nPhoneDetailCtrl.$inject = ['$scope','$routeParams'];"]],"start1":353,"start2":353,"length1":8,"length2":157}]],"length":510,"saved":false}
